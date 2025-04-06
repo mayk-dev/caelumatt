@@ -1,0 +1,18 @@
+{
+    "background": {
+      "image": "assets/zyrabg.jpeg"
+    },
+    "buttons": [
+      {
+        "text": "Entrar no Servidor",
+        "action": "connect_to_server",
+        "server_address": "example.minecraft.server",
+        "server_port": 25565,
+        "x": 100,
+        "y": 200,
+        "width": 200,
+        "height": 50
+      }
+    ]
+  }
+  
